@@ -1033,6 +1033,9 @@ ul.slick-dots button {
     line-height: 32px;
     text-transform: uppercase;
 }
+.email-sidebar{
+    font-size: 16px;
+}
 .skill-label {
     position: absolute;
     bottom: -56px;
