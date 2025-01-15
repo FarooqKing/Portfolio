@@ -550,7 +550,7 @@ header {
 }
 .about-detail-info {
     color: var(--main-text);
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 24px;
     width: 340px;
